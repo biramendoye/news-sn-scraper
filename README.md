@@ -7,6 +7,8 @@ Below are the news sites used:
 - [senego.com](http://senego.com)
 - [seneweb.com](http://seneweb.com)
 
+  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  
 ### Tech / Framework
 
 Built with :
