@@ -1,0 +1,18 @@
+{
+    "senego": {
+        "title": "h1.entry-title",
+        "content": "div.entry-content",
+        "pub_date": "time.single-post-time.publie",
+        "author": "div.author_name",
+        "comments": "div.wpd-comment-text",
+        "news": "a.posts-list-link",
+        "next_page": "div.listPagination .next-post"
+    },
+    "seneweb": {
+        "title": "div.post_header > h1",
+        "content": "div.single_post_content_wrapper",
+        "pub_date": "div.post_header > div.post_meta.single_post_meta > span:nth-child(2)",
+        "author": "div.post_header > div.post_meta.single_post_meta > span:nth-child(1) > a > span",
+        "comments": "div.comment_item_content>span"
+    }
+}
